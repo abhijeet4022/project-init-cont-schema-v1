@@ -1,5 +1,4 @@
 #!/bin/bash
-COMPONENT=catalogue
 git clone "https://github.com/abhijeet4022/${COMPONENT}-v1"
 cd "${COMPONENT}-v1/schema"
 
